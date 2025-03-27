@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Your Name] - Education</title>
+    <title>John - Education</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -22,13 +22,13 @@
     <main>
         <section id="education">
             <h1>My Education</h1>
-            <p>I’m currently a [e.g., sophomore] at [Your University], studying [Your Major]. My academic journey began at [Your High School], where I graduated with [e.g., honors].</p>
-            <p>Some highlights include [e.g., leading the robotics club] and [e.g., earning an A in a challenging calculus course]. Extracurriculars like [e.g., debate team] taught me [e.g., critical thinking].</p>
+            <p>I’m currently enrolled at Zetech universitye, studying Bachelor of business information and Technology. My academic journey began at primary level, where I passed with good grades of 370 marks.</p>
+            <p>Some highlights include  leading the science club and  earning an A in a challenging calculus course. Extracurriculars like debate team taught me  critical thinking.</p>
             <button id="education-btn">View Achievements</button>
         </section>
     </main>
     <footer>
-        <p>© 2025 [Your Name]. All rights reserved.</p>
+        <p>© 2025 John. All rights reserved.</p>
     </footer>
     <script src="script.js">if (document.getElementById("education-btn")) {
     document.getElementById("education-btn").addEventListener("click", function() {
