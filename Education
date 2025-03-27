@@ -22,7 +22,7 @@
     <main>
         <section id="education">
             <h1>My Education</h1>
-            <p>I’m currently enrolled at Zetech universitye, studying Bachelor of business information and Technology. My academic journey began at primary level, where I passed with good grades of 370 marks.</p>
+            <p>I’m currently enrolled at Zetech university, studying Bachelor of business information and Technology. My academic journey began at primary level, where I passed with good grades of 370 marks.</p>
             <p>Some highlights include  leading the science club and  earning an A in a challenging calculus course. Extracurriculars like debate team taught me  critical thinking.</p>
             <button id="education-btn">View Achievements</button>
         </section>
