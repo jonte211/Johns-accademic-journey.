@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>[Your Name] - Contact</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="childhood.html">Childhood</a></li>
+                <li><a href="education.html">Education</a></li>
+                <li><a href="skills.html">Skills</a></li>
+                <li><a href="aspirations.html">Aspirations</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="contact">
+            <h1>Get in Touch</h1>
+            <p>Feel free to reach out to me!</p>
+            <ul>
+                <li>Email: <a href="mailto:[your-email@example.com]">[your-email@example.com]</a></li>
+                <li>LinkedIn: <a href="[your-linkedin-url]" target="_blank">[Your Name]</a></li>
+                <li>Twitter: <a href="[your-twitter-url]" target="_blank">@[YourHandle]</a></li>
+            </ul>
+            <button id="contact-btn">Say Hello</button>
+        </section>
+    </main>
+    <footer>
+        <p>© 2025 [Your Name]. All rights reserved.</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
