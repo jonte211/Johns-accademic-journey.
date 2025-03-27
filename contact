@@ -34,6 +34,10 @@
     <footer>
         <p>© 2025 [Your Name]. All rights reserved.</p>
     </footer>
-    <script src="script.js"></script>
+    <script src="script.js">if (document.getElementById("contact-btn")) {
+    document.getElementById("contact-btn").addEventListener("click", function() {
+        alert("Drop me an email or message—I’d love to connect!");
+    });
+}</script>
 </body>
 </html>
