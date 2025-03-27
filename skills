@@ -30,6 +30,10 @@
     <footer>
         <p>© 2025 [Your Name]. All rights reserved.</p>
     </footer>
-    <script src="script.js"></script>
+    <script src="script.js">if (document.getElementById("skills-btn")) {
+    document.getElementById("skills-btn").addEventListener("click", function() {
+        alert("Portfolio samples coming soon!");
+    });
+}</script>
 </body>
 </html>
