@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Your Name] - Aspirations</title>
+    <title>John - Aspirations</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
@@ -22,13 +22,13 @@
     <main>
         <section id="aspirations">
             <h1>My Future Aspirations</h1>
-            <p>My dream is to [e.g., become a software engineer at a leading tech company]. I aspire to [e.g., create apps that solve real-world problems] and make a positive impact.</p>
-            <p>In the next five years, I hope to [e.g., complete my degree and land an internship]. My ultimate goal is [e.g., to inspire others through my work].</p>
+            <p>My dream is to  become a software engineer at a leading tech company. I aspire to  create apps that solve real-world problems and make a positive impact.</p>
+            <p>In the next five years, I hope to complete my degree and land an internship. My ultimate goal is to inspire others through my work.</p>
             <button id="aspirations-btn">Dream Big</button>
         </section>
     </main>
     <footer>
-        <p>© 2025 [Your Name]. All rights reserved.</p>
+        <p>© 2025 John. All rights reserved.</p>
     </footer>
     <script src="script.js"></script>
 </body>
