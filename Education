@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>[Your Name] - Education</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="childhood.html">Childhood</a></li>
+                <li><a href="education.html">Education</a></li>
+                <li><a href="skills.html">Skills</a></li>
+                <li><a href="aspirations.html">Aspirations</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="education">
+            <h1>My Education</h1>
+            <p>I’m currently a [e.g., sophomore] at [Your University], studying [Your Major]. My academic journey began at [Your High School], where I graduated with [e.g., honors].</p>
+            <p>Some highlights include [e.g., leading the robotics club] and [e.g., earning an A in a challenging calculus course]. Extracurriculars like [e.g., debate team] taught me [e.g., critical thinking].</p>
+            <button id="education-btn">View Achievements</button>
+        </section>
+    </main>
+    <footer>
+        <p>© 2025 [Your Name]. All rights reserved.</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
