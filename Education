@@ -30,6 +30,10 @@
     <footer>
         <p>© 2025 [Your Name]. All rights reserved.</p>
     </footer>
-    <script src="script.js"></script>
+    <script src="script.js">if (document.getElementById("education-btn")) {
+    document.getElementById("education-btn").addEventListener("click", function() {
+        alert("Check back for a full list of my academic achievements!");
+    });
+}</script>
 </body>
 </html>
