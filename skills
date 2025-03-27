@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>[Your Name] - Skills</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="childhood.html">Childhood</a></li>
+                <li><a href="education.html">Education</a></li>
+                <li><a href="skills.html">Skills</a></li>
+                <li><a href="aspirations.html">Aspirations</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="skills">
+            <h1>My Skills & Talents</h1>
+            <p>I’ve developed a range of skills over the years, including [e.g., coding in Python, graphic design]. I’m also passionate about hobbies like [e.g., playing guitar, photography].</p>
+            <p>One talent I’m proud of is [e.g., public speaking], which I honed through [e.g., school presentations]. These abilities make me a well-rounded individual.</p>
+            <button id="skills-btn">Explore My Work</button>
+        </section>
+    </main>
+    <footer>
+        <p>© 2025 [Your Name]. All rights reserved.</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
